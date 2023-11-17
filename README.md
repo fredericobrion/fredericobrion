@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![LinkedIn Badge](https://img.shields.io/badge/-[Linkedin]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/fredericobrion/])]([https://www.linkedin.com/in/fredericobrion/])
 
 <!--
 **fredericobrion/fredericobrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
