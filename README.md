@@ -1,7 +1,7 @@
 # Olá, sou Frederico
 
 ## Sobre mim
-Após 4 anos atuando como Engenheiro civil, resolvi em 2023 embarcar no mundo da tecnologia. Atualmente estudo desenvolvimento web na Trybe, onde pude conhecer o universo do back end. Sempre interessado em novas tecnologias para criar soluções de alta qualidade.
+Após 4 anos atuando como Engenheiro civil, resolvi em 2023 embarcar no mundo da tecnologia. Atualmente estudo desenvolvimento web na Trybe. Sempre interessado em novas tecnologias para criar soluções de alta qualidade.
 
 ### Principais tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
