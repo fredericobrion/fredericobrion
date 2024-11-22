@@ -1,13 +1,14 @@
 # Olá, sou Frederico
 
 ## Sobre mim
-Após 4 anos atuando como Engenheiro civil, resolvi em 2023 embarcar no mundo da tecnologia. Atualmente estudo desenvolvimento web na Trybe. Sempre interessado em novas tecnologias para criar soluções de alta qualidade.
+Sou desenvolvedor full-stack na Meu Guru, onde atuo no desenvolvimento de novas funcionalidades e na manutenção de código existente, garantindo estabilidade e performance em uma plataforma educacional com mais de 3 milhões de usuários cadastrados. Utilizo TypeScript com Next.js no front-end e Nest.js no back-end, além de integrar serviços da AWS.
 
 ### Principais tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
@@ -24,7 +25,6 @@ Após 4 anos atuando como Engenheiro civil, resolvi em 2023 embarcar no mundo da
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 ## Contatos
 <a href="https://www.linkedin.com/in/fredericobrion/" target=”_blank”><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
