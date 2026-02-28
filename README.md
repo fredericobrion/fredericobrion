@@ -11,7 +11,7 @@ With a background in Civil Engineering, I bring analytical thinking, structured 
 
 I am particularly interested in scalable systems, clean architecture, and long-term maintainability.
 
-### Principais tecnologias
+### Core Technologies
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
