@@ -3,13 +3,11 @@
 ## Full-Stack Engineer | TypeScript • Node.js • Next.js • AWS
 
 ## About
-I work on a large-scale education platform with 5M+ registered users, building and evolving full-stack solutions using TypeScript, NestJS, and Next.js.
+Full-stack developer with almost 3 years of experience on an educational platform with over 6 million users, working with TypeScript, Next.js, and NestJS in a microservices architecture on AWS. I work end-to-end — from feature design to technical decisions and architectural evolution — in a high-scale environment with real traffic
 
-Over the past year, I have taken increasing ownership of technical decisions, contributing to microservices architecture, database modeling, and cloud-based integrations on AWS.
+I've structured multi-gateway payment integrations, multi-currency systems, and A/B testing infrastructure used by millions of users.
 
-With a background in Civil Engineering, I bring analytical thinking, structured problem-solving, and professional maturity into software development.
-
-I am particularly interested in scalable systems, clean architecture, and long-term maintainability.
+I'm a civil engineer by training, with 5 years in that field before transitioning to tech. That path gave me analytical insight, maturity in decision-making, and comfort in environments that demand rigor — skills I apply daily in software development.
 
 ### Core Technologies
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
