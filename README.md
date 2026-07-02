@@ -1,6 +1,6 @@
 # Hello, I'm Frederico 👋
 
-## Full-Stack Engineer | TypeScript • Node.js • Next.js • AWS
+## Full-Stack Engineer | Node.js • AWS • React • TypeScript 
 
 ## About
 Full-stack developer with almost 3 years of experience on an educational platform with over 6 million users, working with TypeScript, Next.js, and NestJS in a microservices architecture on AWS. I work end-to-end — from feature design to technical decisions and architectural evolution — in a high-scale environment with real traffic
