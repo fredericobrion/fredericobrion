@@ -20,7 +20,7 @@ I'm a civil engineer by training, with 5 years in that field before transitionin
 ## Contact
 <a href="https://www.linkedin.com/in/fredericobrion/" target=”_blank”><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:fredericoasbrion@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/5532991674479"><img alt="E-mail" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" /></a>
+<a href="https://wa.me/5532991674479"><img alt="E-mail" src="https://img.shields.io/badge/whatsapp-0D1117?style=for-the-badge&logo=whatsapp" /></a>
 
 
 <!--
